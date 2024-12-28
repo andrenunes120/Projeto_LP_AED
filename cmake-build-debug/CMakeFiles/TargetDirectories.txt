@@ -1,0 +1,3 @@
+/Users/andrenunes120/Desktop/UFP/Projeto LP_AED/cmake-build-debug/CMakeFiles/Projeto_LP_AED.dir
+/Users/andrenunes120/Desktop/UFP/Projeto LP_AED/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrenunes120/Desktop/UFP/Projeto LP_AED/cmake-build-debug/CMakeFiles/rebuild_cache.dir
